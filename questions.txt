@@ -1,0 +1,12 @@
+[{"level": 3, "question": "0.5+0.8", "answer": ["1.3"]},
+ {"level": 5, "question": "Converting 2/5 to decimals", "answer": ["0.4"]},
+ {"level": 2, "question": "650+375?", "answer": ["1025"]},
+ {"level": 4, "question": "13x70?", "answer": ["910"]},
+ {"level": 3, "question": "3.7+22.1", "answer": ["25.8"]},
+ {"level": 3, "question": "Simplfy the fraction 12/16", "answer": ["3/4"]},
+ {"level": 3, "question": "7 / 0.1", "answer": ["70"]},
+ {"level": 3, "question": "(124 + 6) x 5", "answer": ["650"]},
+ {"level": 3, "question": "(14 / 2) - (3 x 2)", "answer": ["1"]},
+ {"level": 3, "question": "725 - 368", "answer": ["357"]},
+ {"level": 3, "question": "Simplfy the fraction 512/32", "answer": ["16"]},
+ {"level": 3, "question": "2/11 + 7/11", "answer": ["9/11"]}]
