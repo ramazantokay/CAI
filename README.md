@@ -1,7 +1,7 @@
 # Computer Aided Instruction for 5.th grade students
 
 **Description:** 
-This project contains 10 math questions for 5.grade students. The purpose of this project, make students solve more quesitons.
+This project contains 10 math questions for 5.grade students. The purpose of this project, make students practice more in math questions.
 During the quiz, students can see their wrong and correct answers. At the end of the quiz, they will see their final points. 
 
 ------
