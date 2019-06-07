@@ -9,7 +9,7 @@ During the quiz, students can see their wrong and correct answers. At the end of
 The questions are in the *questions.txt* file. You can add more questions in it. 
 After adding questions, you have to edit code in specific lines. 
 
-In 76.th line change the second parameters.
+In 76.th line change the second parameters in terms of the number of questions.
 ```
 self.current_question_set = random.sample(self.data, 10)
 ```
